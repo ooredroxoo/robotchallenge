@@ -9,7 +9,7 @@ A atividade assumia que a classe com o método ```main``` tinha
 acesso a algumas classes que eu não tinha, o que dificulta o 
 processo de testes da solução.
 
-Por este motivo decidi implementar as classes que a suporta classe com 
+Por este motivo decidi implementar as classes que a suposta classe com 
 o método ```main``` teria acesso.
 
 ## A atividade.
